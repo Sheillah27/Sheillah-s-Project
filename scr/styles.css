@@ -50,3 +50,6 @@ body {
 .percentage {
   font-weight: 400;
 }
+.link {
+  text-decoration: none;
+}
