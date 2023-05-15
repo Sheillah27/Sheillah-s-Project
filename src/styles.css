@@ -50,6 +50,10 @@ body {
 .percentage {
   font-weight: 400;
 }
+.signage {
+  text-align: center;
+  font-weight: 600;
+}
 .link {
   text-decoration: none;
 }
